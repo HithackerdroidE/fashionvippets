@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fashionvippets</string>
+    <!--Login-->
+    <string name="username"></string>
+    <string name="password"></string>
+    <string name="login">Ingresa</string>
+    <string name="register">Registrate</string>
+
+
+</resources>
